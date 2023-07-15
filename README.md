@@ -1,16 +1,17 @@
-# shopping_list
+# Shopping List App (Flutter)
 
-A new Flutter project.
+<br/>
 
-## Getting Started
+## What it is:
+#### The shopping list app allows users to add new items to the list in an easy way by filling a form and delete them. The App is connected to a backend so that the data won't be lost if the app would be deleted or the device would be replaced.
 
-This project is a starting point for a Flutter application.
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
+## What was learned:
+### Handling User Input With Forms
+##### -Building and Using Forms
+##### -Showing On-Screen Validation Errors
+##### -Form Submission and Resetting
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Connecting a Backend
+##### -Sending HTTP Requests From The App To A Backend
